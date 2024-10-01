@@ -1,4 +1,4 @@
-## Hi there 👋
+## Best Day of Big Data 팀의 깃허브 보관함 입니다 👋
 
 <!--
 **BDBD-hywu/BDBD-hywu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
